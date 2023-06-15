@@ -14,7 +14,7 @@ public class ForEach {
         a.add(40);
         a.add(40);
         for(Object i:a){
-            System.out.println(i);
+            System.out.println(i+" ");
 
     }
 }}

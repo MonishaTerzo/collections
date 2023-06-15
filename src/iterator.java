@@ -15,6 +15,6 @@ public class iterator {
             if(i.next().equals(20)){
                i.remove();
        }}
-            System.out.println(a);
+            System.out.println(a+" ");
 
     }}
